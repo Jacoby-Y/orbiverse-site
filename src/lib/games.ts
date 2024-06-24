@@ -10,7 +10,6 @@ export default [
     { // Idle Orbs: Remastered
         cost: 0,
         game_id: "2728348",
-        hidden: true,
     },
     { // Idle Orbs: 4
         cost: 3.00,
